@@ -1,13 +1,11 @@
 {
-  "latest": "1.0.1",
-  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.0.1/LandlordOS-Setup-1.0.1.exe",
-  "sha256": "022cb49bf8569bc194b9bbab54a002b2c341386e24efdea8b79aa4074cef8496",
-  "sizeBytes": 105596882,
-  "releasedAt": "2026-08-22",
+  "latest": "1.0.2",
+  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.0.2/LandlordOS-Setup-1.0.2.exe",
+  "sha256": "b6218bde4fc0df352b25b773c7306d71ad4c6f1cf5f5b7a10838f112d98aef1c",
+  "sizeBytes": 105596908,
+  "releasedAt": "2026-08-23",
   "notes": [
-    "Version and updates now live in Settings, with a manual check for new releases",
-    "Backups taken before an update, migration or restore are never rotated away",
-    "Restoring now checks a backup is readable before replacing anything"
+    "Installers are removed from your data folder once an update is installed"
   ],
   "minimumSupported": "1.0.0"
 }
