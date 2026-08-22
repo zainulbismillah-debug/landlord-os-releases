@@ -41,7 +41,7 @@ and documents. If anything goes wrong, that copy is in your backups folder.
 Each release includes a `.sha256` file. To check a download yourself:
 
 ```powershell
-certutil -hashfile LandlordOS-Setup-1.0.1.exe SHA256
+certutil -hashfile LandlordOS-Setup-<version>.exe SHA256
 ```
 
 The result should match the checksum in `latest.json`.
