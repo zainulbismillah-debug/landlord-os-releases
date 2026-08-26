@@ -1,11 +1,14 @@
 {
-  "latest": "1.0.2",
-  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.0.2/LandlordOS-Setup-1.0.2.exe",
-  "sha256": "b6218bde4fc0df352b25b773c7306d71ad4c6f1cf5f5b7a10838f112d98aef1c",
-  "sizeBytes": 105596908,
-  "releasedAt": "2026-08-23",
+  "latest": "1.0.3",
+  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.0.3/LandlordOS-Setup-1.0.3.exe",
+  "sha256": "05edd8db3e5795dd5dbecf79cfbf36cda0466e3cc6f5122bdea14a3fc737a6c7",
+  "sizeBytes": 105604034,
+  "releasedAt": "2026-08-26",
   "notes": [
-    "Installers are removed from your data folder once an update is installed"
+    "Required fields are now enforced consistently, and forms say exactly what is missing",
+    "Monthly rent due dates are visible on every tenancy",
+    "Manual payments can record who collected the money",
+    "Properties can be marked under offer, sold or archived without losing their history"
   ],
   "minimumSupported": "1.0.0"
 }
