@@ -1,16 +1,18 @@
 {
-  "latest": "1.1.1",
-  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.1.1/LandlordOS-Setup-1.1.1.exe",
-  "sha256": "fd5630b47207c401202133ca7b9e5a03e1035de506441bc226b25430082d17e1",
-  "sizeBytes": 105639064,
-  "releasedAt": "2026-08-27",
+  "latest": "1.1.2",
+  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.1.2/LandlordOS-Setup-1.1.2.exe",
+  "sha256": "bfa93f8a9fcd00c0093f253dfc715a7ae628ef8e4974b00b2f37bcd01bd57af2",
+  "sizeBytes": 105659717,
+  "releasedAt": "2026-08-29",
   "notes": [
-    "Extend a fixed term without losing the original dates",
-    "Renew an agreement, with previous terms and rent kept in history",
-    "Record that a tenancy continued periodically after its fixed term",
-    "Add or remove a joint tenant without deleting their history",
-    "Track deposit changes over time",
-    "See the current agreement, previous terms and tenant history separately"
+    "Record gas, electricity and water meters",
+    "Ordinary and dual-rate (Economy 7) meters",
+    "Opening, interim and closing readings, with photographs",
+    "Corrections and meter replacements keep the original record",
+    "Meter history from properties, units and tenancies",
+    "Printable tenancy handover summaries",
+    "Meters are searchable, with serial numbers masked",
+    "Readings are records only — Landlord OS does not send them to your supplier"
   ],
   "minimumSupported": "1.0.0"
 }
