@@ -1,16 +1,16 @@
 {
-  "latest": "1.1.0",
-  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.1.0/LandlordOS-Setup-1.1.0.exe",
-  "sha256": "5040870f29fef24a5a0548930e72803a64b2f56a24f29e88c1efe4701062f0fa",
-  "sizeBytes": 105625074,
+  "latest": "1.1.1",
+  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.1.1/LandlordOS-Setup-1.1.1.exe",
+  "sha256": "fd5630b47207c401202133ca7b9e5a03e1035de506441bc226b25430082d17e1",
+  "sizeBytes": 105639064,
   "releasedAt": "2026-08-27",
   "notes": [
-    "Record identity and Right to Rent checks against any tenant, with the scans kept encrypted",
-    "Opening an identity document asks for your PIN again, and that approval lasts five minutes",
-    "A backup recovery password, so encrypted documents can be restored on another computer",
-    "Settings tells you whether your backups would survive a new computer",
-    "Restoring a backup on a new computer now asks for the recovery password",
-    "Sold properties keep their complete history"
+    "Extend a fixed term without losing the original dates",
+    "Renew an agreement, with previous terms and rent kept in history",
+    "Record that a tenancy continued periodically after its fixed term",
+    "Add or remove a joint tenant without deleting their history",
+    "Track deposit changes over time",
+    "See the current agreement, previous terms and tenant history separately"
   ],
   "minimumSupported": "1.0.0"
 }
