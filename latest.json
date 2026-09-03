@@ -1,18 +1,17 @@
 {
-  "latest": "1.1.2",
-  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.1.2/LandlordOS-Setup-1.1.2.exe",
-  "sha256": "bfa93f8a9fcd00c0093f253dfc715a7ae628ef8e4974b00b2f37bcd01bd57af2",
-  "sizeBytes": 105659717,
-  "releasedAt": "2026-08-29",
+  "latest": "1.3.0",
+  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.3.0/LandlordOS-Setup-1.3.0.exe",
+  "sha256": "9114b5d50defa4716db155b281e46faaf91658af06c03b4d6378abac2a25fb60",
+  "sizeBytes": 105779503,
+  "releasedAt": "2026-09-03",
   "notes": [
-    "Record gas, electricity and water meters",
-    "Ordinary and dual-rate (Economy 7) meters",
-    "Opening, interim and closing readings, with photographs",
-    "Corrections and meter replacements keep the original record",
-    "Meter history from properties, units and tenancies",
-    "Printable tenancy handover summaries",
-    "Meters are searchable, with serial numbers masked",
-    "Readings are records only — Landlord OS does not send them to your supplier"
+    "Improved consistency across rent, arrears and financial figures",
+    "Added Right to Rent and identity-check record keeping with encrypted evidence",
+    "Added ordinary tenant letters from your existing records",
+    "Redesigned reports, lists and property/tenant detail screens",
+    "Fixed payment-reversal dates and statement ordering",
+    "Improved keyboard navigation, focus handling and accessibility",
+    "General reliability, backup and recovery improvements"
   ],
   "minimumSupported": "1.0.0"
 }
