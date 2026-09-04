@@ -1,17 +1,16 @@
 {
-  "latest": "1.3.0",
-  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.3.0/LandlordOS-Setup-1.3.0.exe",
-  "sha256": "9114b5d50defa4716db155b281e46faaf91658af06c03b4d6378abac2a25fb60",
-  "sizeBytes": 105779503,
-  "releasedAt": "2026-09-03",
+  "latest": "1.3.1",
+  "url": "https://github.com/zainulbismillah-debug/landlord-os-releases/releases/download/v1.3.1/LandlordOS-Setup-1.3.1.exe",
+  "sha256": "d17e166f033a34a46552d4cbf8f019e78a4d4d31d994d83e5f94e164d60235e5",
+  "sizeBytes": 109534695,
+  "releasedAt": "2026-09-04",
   "notes": [
-    "Improved consistency across rent, arrears and financial figures",
-    "Added Right to Rent and identity-check record keeping with encrypted evidence",
-    "Added ordinary tenant letters from your existing records",
-    "Redesigned reports, lists and property/tenant detail screens",
-    "Fixed payment-reversal dates and statement ordering",
-    "Improved keyboard navigation, focus handling and accessibility",
-    "General reliability, backup and recovery improvements"
+    "New Letter wording setup in Settings, so all seven ordinary letter templates can be reviewed and activated",
+    "New dashboard artwork",
+    "New lock screen artwork and purple lock branding",
+    "New purple Landlord OS application icon",
+    "Lock screen readability and accessibility improvements",
+    "General reliability and verification improvements"
   ],
   "minimumSupported": "1.0.0"
 }
